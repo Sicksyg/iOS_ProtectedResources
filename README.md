@@ -20,3 +20,6 @@ A small dataset in the form of a .json file with the app permissions used by iOS
         }....
 
 ```
+
+# License
+This dataset is lisenced under Creative [Commons Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
